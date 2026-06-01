@@ -1,11 +1,11 @@
 # Sorting Visualizer
 
-A simple project to visualize sorting algorithms.
+Simple Python project that visualizes Bubble Sort in the terminal.
 
 ## Features
-- Bubble Sort
-- Shuffle
-- Visualization
+- Random number generation
+- Bubble Sort algorithm
+- Step-by-step visualization in terminal
 
-## Technologies
+## Tech
 - Python
